@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyuadhiprabowo1&label=Profile%20views&color=0e75b6&style=flat" alt="wahyuadhiprabowo1" /> </p>
 
-- 🌱Saat ini saya sedang mempelajari untuk menjadi **Front End Developer**
+- 🌱Saat ini saya sedang mempelajari mendalami bidang **Front End Developer**
 
 - 📫Hubungi saya di **wahyuadhiprabowo1@gmail.com**
 
