@@ -1,8 +1,7 @@
 <!-- Github generator readme: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-[![MasterHead](https://drive.google.com/file/d/1cIMF-ECVQ61xClngxCV88oRJm1bFdsBp/view?usp=sharing)
 <h1 align="center">Hi 👋, Saya Wahyu Adhi Prabowo</h1>
 <h3 align="center">Saya tertarik untuk menjadi fullstack web developer</h3>
-
+<img src="https://drive.google.com/file/d/1cIMF-ECVQ61xClngxCV88oRJm1bFdsBp/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyuadhiprabowo1&label=Profile%20views&color=0e75b6&style=flat" alt="wahyuadhiprabowo1" /> </p>
 
